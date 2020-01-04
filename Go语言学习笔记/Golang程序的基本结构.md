@@ -2,5 +2,12 @@
 //代码包声明语句
 package main
 
-//代码包导入
+//代码包导入语句
+import (
+    "fmt"
+)
+
+// main 函数
+func main() {
+    //打印
 ```
