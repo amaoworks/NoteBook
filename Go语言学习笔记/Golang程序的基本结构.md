@@ -9,5 +9,7 @@ import (
 
 // main 函数
 func main() {
-    //打印
+    //打印函数调用语句
+    fmt.Println("Hello,World")
+}
 ```
