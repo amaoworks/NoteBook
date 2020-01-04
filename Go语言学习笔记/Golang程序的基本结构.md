@@ -1,3 +1,4 @@
+名：index.go
 ```
 //代码包声明语句
 package main
